@@ -67,6 +67,10 @@ The primary CSV file employed in this project is located at `data/p6-uk-bank-cus
 
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please create a pull request.
 
+<br>
+
+![Analytical BI Report](https://github.com/HajiMohamedRufai/PowerBI/blob/main/reports/Analytical%20BI%20report.PNG)
+
 ## Acknowledgments
 
 This project was developed by [Haji Rufai](https://www.github.com/hajimohamedrufai) as a demonstration of PowerBI capabilities for interactive BI reporting.
