@@ -8,12 +8,16 @@ Welcome to the PowerBI project focused on creating an interactive Business Intel
 
 ### 1. Data Sources
 
-The report utilizes diverse data sources related to UK Bank Customers, including but not limited to:
+**Disclaimer:** The data source used for this project is part of the Super Data Science course and is utilized for educational purposes.
 
-- Customer demographics
-- Transaction history
-- Account information
-- Financial trends
+The primary CSV file employed in this project is located at `data/p6-uk-bank-customers.csv` and includes the following key points:
+
+- Customer Name
+- Gender
+- Region
+- Job Classification
+
+
 
 ### 2. Key Features
 
@@ -30,7 +34,7 @@ The report utilizes diverse data sources related to UK Bank Customers, including
 
 2. **Data Connection:**
    - Connect the PowerBI report to your relevant data sources.
-   - Verify data relationships and integrity.
+   - Verify data relationships and integrity (no need to do it here).
 
 3. **Customization:**
    - Tailor visuals to match specific requirements.
@@ -65,8 +69,6 @@ Contributions are welcome! If you have suggestions, improvements, or bug fixes, 
 
 ## Acknowledgments
 
-This project was developed by [Your Name] as a demonstration of PowerBI capabilities for interactive BI reporting.
+This project was developed by [Haji Rufai](https://www.github.com/hajimohamedrufai) as a demonstration of PowerBI capabilities for interactive BI reporting.
 
----
 
-Feel free to enhance this README with specific details about the project structure, visuals, and any additional information relevant to your implementation.
